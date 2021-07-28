@@ -1,0 +1,1 @@
+RULE1: DO NOT let a game entity depend on its assets, instead its logic should run perfectly fine even without any asset loaded albeit some weird-looking behaviors.

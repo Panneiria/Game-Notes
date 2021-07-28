@@ -1,1 +1,2 @@
 RULE1: DO NOT let a game entity depend on its assets, instead its logic should run perfectly fine even without any asset loaded albeit some weird-looking behaviors.
+RULE2: Have the building blocks of an intricate resource management system which you can customize later as early as possible and test them well. They should provide some easy-to-use interfaces through which you can load in the background either a single asset at a time or a group of assets concurrently. This goes along with RULE1.
